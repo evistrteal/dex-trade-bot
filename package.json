@@ -1,0 +1,19 @@
+{
+  "name": "dex-trade-bot",
+  "version": "1.0.1",
+  "description": "Automated trading strategies across DEXes, leveraging dex-sniper-pro.",
+  "main": "index.js",
+  "dependencies": {
+    "dex-sniper-pro": "1.0.0",
+    "ethers": "^5.4.0",
+    "dotenv": "^8.2.0",
+    "ccxt": "^1.42.76",
+    "node-cron": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evistrteal/dex-trade-bot"
+  },
+  "author": "evistrteal",
+  "license": "MIT"
+}
